@@ -15,7 +15,6 @@ import Edit from '../edit/Edit';
 
 class NavBarBase extends React.Component {
   render() {
-    this.props;
     return (
       <AppBar
         title="Movie Database"
